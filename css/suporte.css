@@ -6,11 +6,9 @@
 
 body{
     margin: 0 auto;
-    width:100%;
+    
 }
-main{
-  width:100%;
-}
+
 .titulo{
     width:100%;
     background-color:#23232e;
@@ -40,16 +38,16 @@ button {
 }
 
 main{
+    
     background-image: url(../img/paralax.jpg);
     background-repeat: no-repeat;
-    height: 300px;
-    width: 100%;
+    
     text-align: center;
 }
 
 .conteiner{
     margin-top: 200px;
-    width: 100%;
+    
     border: 3px solid white;
     border-radius: 20px;
     background-color: white;
@@ -168,7 +166,7 @@ main{
 
 .contato{
     color: #23232e;
-    width: 980px;
+    width: 100%;
     margin-bottom: 90px;
     text-align: justify;
 }
@@ -180,16 +178,14 @@ main{
 .lista-contato span {
     text-align: start;
     display: inline-block;
-    width: 400px;
+    width: 100%;
     padding: 12px;
     margin: 6px;
     text-decoration: none;
     color: #23232e;
 }
 
-footer{
-    margin-top:850px;
-}
+
 
 .botao-topo{
     border: 2px solid #23232e;

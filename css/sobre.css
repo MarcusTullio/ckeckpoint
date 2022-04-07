@@ -13,7 +13,10 @@
     border-style: outset;
     color:white;
 }
-
+.img{
+   display:flex;
+  justify-content:center;
+}
 .botao{
   text-decoration:none;
   color:white;
@@ -31,6 +34,7 @@ button {
   transform: translateX(10px) scale(1.8);
 }
 main{
+    width:100%;
     margin: 0 auto;
     background-image: url(../img/paralax.jpg);
     background-repeat: repeat;
@@ -38,10 +42,9 @@ main{
 }
 
 .conteiner{
-    width:50%;
+    width:75%;
     border: 3px solid #23230e;
     background-color: #23232e;
-    
 }
 .conteiner h1{
     color: white;
@@ -57,7 +60,4 @@ p{
 h2{
   color:white;
   text-align: center;
-}
-span{
-  color:white;
 }
