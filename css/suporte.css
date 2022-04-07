@@ -60,7 +60,7 @@ main{
 
 .conteiner-filho h1{
     display: inline-block;
-    width: 100%;
+    width: 50%;
     padding: 10px;
     margin-right: 50px;
     color: #23232e;
@@ -69,9 +69,9 @@ main{
 
 .conteiner-filho input{
     display: inline-block;
-    padding-left: 20px;
-    height: 25px;
-    width: 204px;
+    padding-left: 17px;
+    height: 30px;
+    width: 220px;
     border: 3px solid #23232e;
     border-radius: 18px;
 }
